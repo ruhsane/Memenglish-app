@@ -4,9 +4,9 @@
 Learn English With Memes! The app automatically detects the text in the meme image, and translates into the language chosen.
 
 ## Technologies
-FirebaseMLVision Framework to recognize text in image
-Google translation API
-Grand Central Dispatch
+- FirebaseMLVision Framework to recognize text in image
+- Google translation API
+- Grand Central Dispatch
 
 ## Integration with Grand Central Dispatch
 Old version: had to download every meme image, detect texts and translate the text before showing the view to the user.
