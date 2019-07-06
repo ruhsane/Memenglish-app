@@ -12,3 +12,6 @@ Learn English With Memes! The app automatically detects the text in the meme ima
 Old version: had to download every meme image, detect texts and translate the text before showing the view to the user.
 
 New version(after integrating Dispatch): shows view on the main queue instantly. Then downloads, detects, translates in other threads with .background qos level, updates the UI when it's done. Gives much more smooth user experience and performance.
+
+## Prototye:
+<img src= "https://github.com/ruhsane/Memenglish-app/blob/master/Screenshots/Prototype.png" width = 250 height = 550> </img>
